@@ -14,12 +14,6 @@ Este é um projeto simples para gerenciar um jogo de "Amigo Secreto". O sistema 
 - **Visualização de Resultados**: Após o sorteio, cada participante pode visualizar quem é o seu amigo secreto.
 - **Segurança**: Os resultados são mantidos seguros e só são revelados para cada participante individualmente.
 
-## Como Usar
-
-1. **Clone o Repositório**:
-   ```bash
-   git clone https://github.com/rafaela-corujinha/challenge-amigo-secreto
-   cd amigo-secreto
 
 
 
